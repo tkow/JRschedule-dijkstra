@@ -1,0 +1,10 @@
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\ntl\schedulejr\schedulejr\bin\Debug\schedulejr.exe.config
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\bin\Debug\schedulejr.exe.config
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\bin\Debug\schedulejr.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\bin\Debug\schedulejr.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\obj\Debug\schedulejr.csprojResolveAssemblyReference.cache
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\obj\Debug\schedulejr.Form1.resources
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\obj\Debug\schedulejr.Properties.Resources.resources
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\obj\Debug\schedulejr.csproj.GenerateResource.Cache
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\obj\Debug\schedulejr.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\obj\Debug\schedulejr.pdb

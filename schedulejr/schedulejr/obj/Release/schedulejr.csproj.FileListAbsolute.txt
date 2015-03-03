@@ -1,0 +1,9 @@
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\bin\Release\schedulejr.exe.config
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\bin\Release\schedulejr.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\bin\Release\schedulejr.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\obj\Release\schedulejr.Form1.resources
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\obj\Release\schedulejr.Properties.Resources.resources
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\obj\Release\schedulejr.csproj.GenerateResource.Cache
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\obj\Release\schedulejr.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\obj\Release\schedulejr.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\schedulejr\schedulejr\obj\Release\schedulejr.csprojResolveAssemblyReference.cache
